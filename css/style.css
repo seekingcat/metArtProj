@@ -1,0 +1,43 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+body {
+  background-color: #f2f2f2;
+  font-family: 'Faustina', sans-serif;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+p {
+  text-align: center;
+}
+
+input,
+button {
+  margin: 5px auto;
+  display: block;
+}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
