@@ -11,19 +11,30 @@
 /* LAYOUT
 /*******************************************/
 body {
-  background-color: #f2f2f2;
+  background: rgb(225, 234, 241);
+  background: linear-gradient(
+    90deg,
+    rgba(225, 234, 241, 1) 0%,
+    rgba(161, 140, 177, 1) 83%,
+    rgba(88, 84, 97, 1) 100%
+  );
   font-family: 'Faustina', sans-serif;
 }
 
 img {
   display: block;
-  margin: 0 auto;
-  width: 500px;
+  margin: 20px auto;
+  width: 450px;
+  /* height: 100vh; */
+  border-radius: 20px;
 }
 
 .container {
   width: 80%;
-  margin: 0 auto;
+  height: 100vh;
+  margin: 20px auto;
+  border-radius: 5px;
+  padding: 30px;
 }
 
 h1,
@@ -33,10 +44,51 @@ p {
   text-align: center;
 }
 
+h1 {
+  font-size: 50px;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.4em;
+}
+
+.small-text {
+  font-size: 16px;
+}
+
 input,
 button {
-  margin: 5px auto;
+  margin: auto;
   display: block;
+}
+
+input::placeholder {
+  font-size: 0.8em;
+  opacity: 0.8;
+}
+
+input {
+  font-size: 1.5em;
+  border-radius: 9999em;
+  text-align: center;
+  background: linear-gradient(21deg, #e4d4e6, #e599ec);
+  border: none;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+button {
+  background-color: #e599ec;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 18px;
+  color: white;
+  padding: 8px 20px;
+  text-align: center;
+  cursor: pointer;
+  margin-top: 15px;
 }
 /******************************************
 /* ADDITIONAL STYLES
