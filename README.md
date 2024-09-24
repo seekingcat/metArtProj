@@ -13,14 +13,8 @@ Optimizations
 
 Although I desired to keep this design simple and clean and let the artwork do the talking, I would perhaps build out the styling a little more. At a later date I'd like to include other databases that could supplement any search parameters that might not return a result.
 
-Lessons Learned:
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those whoa this is awesome or wow I actually did it! moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
-
 Examples:
-Take a look at these couple examples that I have in my own portfolio:
+Take a look at other examples that I have in my own portfolio:
 
-Palettable: https://github.com/alecortega/palettable
+Pronunciation tool: [https://github.com/alecortega/palettable](https://github.com/seekingcat/pronunciationProj)
 
-Twitter Battle: https://github.com/alecortega/twitter-battle
-
-Patch Panel: https://github.com/alecortega/patch-panel
