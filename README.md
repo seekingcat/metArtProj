@@ -1,7 +1,8 @@
 This project allows young people to use simple words or phrases that describe artworks that are inspired by these words that may be housed by the Metropolitan museum of Art.
 
 Link to project: (https://seekingcat.github.io/metArtProj/)
-[image_url](https://ibb.co/fqmpg8f))
+
+![Project screengrab](https://ibb.co/fqmpg8f)
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript
