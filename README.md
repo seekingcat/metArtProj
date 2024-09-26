@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Metroplitan%20Art&20Finder&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Metroplitan%20Art&20Finder&fontSize=40)
 
 This project allows young people to use simple words or phrases that describe artworks that are inspired by these words that may be housed by the Metropolitan museum of Art.
 
