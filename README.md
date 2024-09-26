@@ -9,7 +9,7 @@ Link to project: (https://seekingcat.github.io/metArtProj/)
 How It's Made:
 Tech used: HTML, CSS, JavaScript
 
-The Metropolitan Museum of Art has a tremendous collection of artwork from around the world and across the years. However, we might not always remember the names of the artwork we want to see. Using a simple form submission, users can access the Met's extensive collections API, and receive random images of artworks inspired by or containing their search phrase. A placeholder image is supplied if the phrase does not appear in the database search.  
+The Metropolitan Museum of Art has a tremendous collection of artwork from around the world and across the years. However, we might not always remember the names of the artwork we want to see. Using a simple form submission, users can access the Met's extensive collections API, and receive random images of artworks inspired by or containing their search phrase. A placeholder image is supplied if the phrase does not appear in the database search.
 
 Optimizations
 
